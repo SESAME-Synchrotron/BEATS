@@ -4,3 +4,6 @@
 [submodule "BEATS_Dashboard"]
 	path = BEATS_Dashboard
 	url = git@github.com:SESAME-Synchrotron/BEATS_Dashboard.git
+[submodule "tomopy"]
+	path = tomopy
+	url = git@github.com:SESAME-Synchrotron/tomopy.git
