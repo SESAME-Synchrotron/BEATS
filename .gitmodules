@@ -7,3 +7,6 @@
 [submodule "tomopy"]
 	path = tomopy
 	url = git@github.com:SESAME-Synchrotron/tomopy.git
+[submodule "BEATSH5Writer"]
+	path = BEATSH5Writer
+	url = git@github.com:SESAME-Synchrotron/BEATSH5Writer.git
