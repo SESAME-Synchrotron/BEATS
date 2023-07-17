@@ -1,3 +1,6 @@
 [submodule "BEATS_tomoscan"]
 	path = BEATS_tomoscan
 	url = git@github.com:SESAME-Synchrotron/BEATS_tomoscan.git
+[submodule "BEATS_Dashboard"]
+	path = BEATS_Dashboard
+	url = git@github.com:SESAME-Synchrotron/BEATS_Dashboard.git
