@@ -10,3 +10,6 @@
 [submodule "BEATSH5Writer"]
 	path = BEATSH5Writer
 	url = git@github.com:SESAME-Synchrotron/BEATSH5Writer.git
+[submodule "BEATS_DAQ_Supp_IOC"]
+	path = BEATS_DAQ_Supp_IOC
+	url = git@github.com:SESAME-Synchrotron/BEATS_DAQ_Supp_IOC.git
