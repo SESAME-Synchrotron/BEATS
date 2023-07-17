@@ -1,0 +1,3 @@
+[submodule "BEATS_tomoscan"]
+	path = BEATS_tomoscan
+	url = git@github.com:SESAME-Synchrotron/BEATS_tomoscan.git
