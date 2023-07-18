@@ -1,4 +1,4 @@
-# BEATS
+# BEATS Software Repository #
 This repo is sub-module based repo that includes all BEATS related repos in one place. 
 
 - To add a new sub-repo to BEATS repo: 
