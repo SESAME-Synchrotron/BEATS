@@ -1,4 +1,4 @@
-# BEATS Software Repository (BEATS)#
+# BEATS Software Repository (BEATS) #
 
 # What is this repository #
 
