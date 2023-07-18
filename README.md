@@ -1,6 +1,13 @@
 # BEATS Software Repository (BEATS) #
 
 ## What is this repository ##
+This repo implements git submodules technique to list these repos in one space: 
+1. BEATSH5Writer -- BEATS experimental data writer
+2. BETAS_DAQ_Support_IOC -- tomoscan & writer support IOC
+3. BEATS_Dashboard -- BEATS dashboard that is used to control all scan modules
+4. BEATS_tomoscan -- forked repo from tomoscan@APS
+5. RPTrigServ -- Raspberry Pi based simple triggering system for PCO detector.
+6. tomopy -- A repo to help users reconstructing thier datasets.
 
 ## Quick usage guide ##
 This repo is sub-module based repo that includes all BEATS related repos in one place. 
