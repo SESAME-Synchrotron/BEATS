@@ -16,3 +16,6 @@
 [submodule "RPTrigServ"]
 	path = RPTrigServ
 	url = git@github.com:SESAME-Synchrotron/RPTrigServ.git
+[submodule "BEATS_recon"]
+	path = BEATS_recon
+	url = git@github.com:SESAME-Synchrotron/BEATS_recon.git
