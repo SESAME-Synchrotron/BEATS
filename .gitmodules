@@ -19,3 +19,6 @@
 [submodule "BEATS_recon"]
 	path = BEATS_recon
 	url = git@github.com:SESAME-Synchrotron/BEATS_recon.git
+[submodule "TomoscanSupportIOCs"]
+	path = TomoscanSupportIOCs
+	url = git@github.com:SESAME-Synchrotron/TomoscanSupportIOCs.git
